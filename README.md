@@ -3,7 +3,7 @@ Using Python, Matplotlib, Pyplot, Pandas and Jupyter Notebook to perform analysi
 
 ## Overview of the Analysis
 
-**To perform this project, we used Python to code the analysis we want to perform. In addition to used two open-source packages within Python called Pandas, Numpy and Matplotlib to assist with the analysis and visualize the results. Finally we used the computational noebook Jupyter Notebook to write, edit and manipulate our code for Python.** 
+**To perform this project, we used Python to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we have created a multiple-line graph that shows the total weekly fares for each city type.** 
 
 In this project, we were provided with two data sets from the Company Pyber: Individual ride data and data by city. We merged these two data to create a comprehensive data set. Using this data set and the original indivdual data sets, we were asked to perform two types of analysis:
  - Calculate and present Average Fare data by ride and by driver indexed by type of city
