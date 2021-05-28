@@ -23,9 +23,9 @@ The image below shows the distribution of Pyber income spread over a four (4) mo
 
 The revenue distribution over the four(4) month period is interesting. Both urban and suburban areas have a gradual increase in total fares from January to mid february. After that, both these cities have irregular distribution of fares. The second point of interest is that all three types of cities have a peak in fares in the third week of February which I believe require further investigation. 
 
-## Conclusion
+## Summary
 
-We have listed three recomendations to the CEO based on our obserations of the data
+We have listed three recomendations to the CEO based on our observations of the data.
  - The Company should look to add drivers during the period Feb 15 to March 01 because that seems to be a peak period
  - Fares in urban areas seem to decrease after April 15 while fares in suburban areas appear to increase in the same period. The Company should look to divert drivers from urban areas to suburban areas during this period. 
  - Since rural areas have the highest average fares, the Company could expand in rural areas as they might have higher growth potential. 
